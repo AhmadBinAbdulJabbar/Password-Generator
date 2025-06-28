@@ -5,9 +5,7 @@ It allows you to generate strong random passwords with customizable options.
 
 ## Screenshot
 
-![Password Generator Screenshot](screenshot.png)
-
-> _Place a screenshot of your project as `screenshot.png` in the project folder for it to appear here._
+![Password Generator Screenshot](./password-generator.jpg)
 
 ---
 
